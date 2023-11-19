@@ -16,7 +16,7 @@ namespace TrasladoSeguro.Models
 
         public int ServicioTransporteId {  get; set; }
 
-        public ServicioTransporte? ServicioTransporte {  get; set; }
+        public ServicioTransporte? ServicioTransporte { get; set; }
 
 
     }
